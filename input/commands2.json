@@ -1,0 +1,6 @@
+[{"kind":"Monitor","name":"x"},
+ {"kind":"Monitor","name":"ws"},
+ {"kind":"Monitor","name":"wt"},
+ {"kind":"Update","name":"/var/s","value":2},
+ {"kind":"Update","name":"/var/t","value":3}]
+ 

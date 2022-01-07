@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "npx jest src/hw2.spec.ts"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.22",
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.10.3",
+    "chai": "^4.3.4",
+    "jest": "^27.2.5",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "jest-editor-support": "^30.0.2"
+  }
+}

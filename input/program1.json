@@ -1,0 +1,11 @@
+[{"kind":"Watch",
+  "variable":{"kind":"Var","name":"wt"},
+  "file":{"kind":"Target","name":"/var/t"}},
+ {"kind":"Watch",
+  "variable":{"kind":"Var","name":"ws"},
+  "file":{"kind":"Target","name":"/var/s"}},
+ {"kind":"Simple",
+  "variable":{"kind":"Var","name":"x"},
+  "expression":{"kind":"Add",
+                "left":{"kind":"Var","name":"wt"},
+                "right":{"kind":"Var","name":"ws"}}}]
